@@ -4,7 +4,7 @@ This REPO holds a bunch of programs I made with the assistance of Daniel Shiffma
 
 Title of each folder is written in the following format: 
 - A ( B )
-- where...
+\n where...
 - A: What the program is about
 - B: Location of the Shiffman's Video that I received helped from or got inspired by 
 
