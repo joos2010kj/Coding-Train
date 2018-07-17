@@ -9,3 +9,5 @@ where... <br />
 - B: Location of the Shiffman's Video that I received helped from or got inspired by 
 
 *NOTE: CC is short for "Coding Challenge" and Ch is short for "Chapter"*
+
+HUGE CREDITS TO DANIEL SHIFFMAN!
