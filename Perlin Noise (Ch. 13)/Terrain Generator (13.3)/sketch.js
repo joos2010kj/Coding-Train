@@ -17,6 +17,8 @@ function draw(){
   for(let i = 0; i <= width; i++){
     vertex(i, noise(yoff) * height);
     yoff += yoff_range; //offset "range" (closer to 0 == more similar)
+
+    addLine(i, noise(yoff) * height);
   }
   start += speed; //speed at which terrains are "moving"
 
@@ -25,4 +27,11 @@ function draw(){
 
 function mousePressed(){
   start += 10; //different "place"
+}
+
+function addLine(x, pt){
+  push();
+  stroke(150);
+  line(x, pt, x, height);
+  pop();
 }
