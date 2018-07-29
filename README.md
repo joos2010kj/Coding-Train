@@ -8,6 +8,6 @@ where... <br />
 - A: What the program is about
 - B: Location of the Shiffman's Video that I received helped from or got inspired by 
 
-*NOTE: CC is short for "Coding Challenge" and Ch is short for "Chapter"*
+*NOTE: CC is short for "Coding Challenge" and NOC is short for "Nature of Code"*
 
 HUGE CREDITS TO DANIEL SHIFFMAN!
